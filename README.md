@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Polotno is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://polotno.com/
+Polotno provides a powerful, open-source canvas library for building design tools and visual editors directly in the browser. It offers a flexible, component‑based architecture, extensive customization options, and a rich set of pre‑built UI elements, enabling developers to create sophisticated graphic applications without reinventing core drawing functionality. The library is actively maintained, supports modern web standards, and integrates seamlessly with React, Vue, and other frameworks, making it a versatile choice for both startups and enterprise projects seeking high‑performance, client‑side design capabilities.
+
+**Areas:** Company · Canvas · DesignTools · OpenSource · JavaScript
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://polotno.com/)
+- [Documentation](https://polotno.com/docs/overview)
+- [Getting started](https://community.polotno.com/c/ask/issues-getting-polotno-sdk-working-out-of-the-box-following-quick-start)
+- [Pricing](https://polotno.com/sdk/pricing)
+- [Changelog](https://community.polotno.com/c/changelog/)
+- [Blog](https://polotno.com/blog)
+- [Security](https://polotno.com/legal/security)
+- [Terms of service](https://polotno.com/legal/terms-of-service)
+- [Privacy policy](https://polotno.com/legal/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/polotno/](https://apis.io/providers/polotno/).
